@@ -80,7 +80,6 @@ npm start
 - Axios (v1.5.1)
 - Date-fns-tz (v2.0.0)
 - jwt-decode (v3.1.2)
-- [Add more frontend technologies...]
 
 ### Backend
 
@@ -92,7 +91,6 @@ npm start
 - Dotenv (v16.3.1)
 - Jsonwebtoken (v9.0.2)
 - Mysql2 (v3.6.1)
-- [Add more backend technologies...]
 
 ## Contributing
 
